@@ -1,0 +1,62 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 24px;
+    background-color: black; /* Fallback color */
+    color: white;
+    line-height: 1.6;
+    background: url(https://thumbs.dreamstime.com/b/beautiful-galaxy-background-selective-focus-344907881.jpg) no-repeat center center fixed; /* Background image */
+    background-size: cover; /* Cover the entire background */
+    text-align: center;
+    box-shadow: 0 0 10px #50d862;
+    
+}
+
+/* Header */
+header {
+    background-color: #50d862;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    border-radius: 10px;
+    box-shadow: #50d862;
+}
+
+section {
+    margin: 1rem 0;
+    padding: 1em;
+    color: aliceblue;
+    text-align: center;
+    box size-adjust: 10px;
+    
+}
+
+section h2 {
+    color:white;
+    margin-bottom: 1rem;
+    text-align: center;
+    
+}
+
+/* Footer */
+footer {
+    background-color: #278f27;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-radius: 15 px;
+    box-shadow: 0 0 10px #50d862;
+}
+
+.border {
+    border: 1px solid white;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #50d862;
+}
